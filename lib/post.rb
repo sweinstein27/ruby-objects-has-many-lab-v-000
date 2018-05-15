@@ -6,6 +6,10 @@ class Post
     @author = author
   end
 
+  def self.author_name
+    @author_name
+  end
+
 
 
 end
