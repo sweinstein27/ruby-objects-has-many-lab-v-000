@@ -27,9 +27,9 @@ class Author
     @@post_count
   end
 
-  def name 
-    @name 
+  def name
+    @name
   end
 
-  
+
 end
