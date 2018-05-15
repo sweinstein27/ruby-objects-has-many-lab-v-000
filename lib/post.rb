@@ -7,7 +7,7 @@ class Post
   end
 
   def author_name
-      if self.author.name == " "
+      if self.author.name == []
       else
         self.author.name
       end
