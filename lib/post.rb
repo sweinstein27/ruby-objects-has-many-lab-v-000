@@ -10,6 +10,7 @@ class Post
       if self.author.name == " "
       else
         self.author.name
+      end
   end
 
 
